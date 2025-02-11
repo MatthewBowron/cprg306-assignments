@@ -4,7 +4,7 @@ export function StudentInfo() {
     return (
       <main>
         <h1>Matther Bowron</h1>
-        <Link href="https://webdev2-weld.vercel.app/week-2/react">GitHub</Link>
+        <Link href="https://github.com/MatthewBowron/cprg306-assignments">GitHub</Link>
       </main>
     );
   }
