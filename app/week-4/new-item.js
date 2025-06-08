@@ -25,7 +25,7 @@ export default function NewItem(){
     }
 
     return (
-        <div className="flex justify-end bg-white mx-auto w-32 m-2 p-2">
+        <div className="flex justify-end bg-white mx-auto w-32 m-2 p-2 rounded">
             <p className="inline mr-8">{quantity}</p>
             <button className={decStyles}
                 onClick={decrement}>-</button>
